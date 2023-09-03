@@ -1,0 +1,2 @@
+# JavaCode
+For Exam
